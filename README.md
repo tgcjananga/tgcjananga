@@ -22,14 +22,6 @@ Final-year Computer Engineering undergraduate at the **University of Peradeniya*
 
 ---
 
-## 📈 Contribution Activity
-
-<p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tgcjananga&theme=github-compact&hide_border=true&cache_seconds=86400" />
-</p>
-
----
-
 ## 👀 Profile Views
 
 <p>
@@ -47,15 +39,6 @@ A deep dive into the design and implementation of PostgreSQL lifecycle managemen
 
 ---
 
-
-## 📖 Publication
-
-**Evaluating Topology Preservation in Dimensionality Reduction Methods for Metagenomic Data: A Comparative Analysis**
-C. Jananga, T. Prasadinie, P. Malshan, V. Mallawaarachchi, R. Vidanaarachchi, and D. Herath
-*2026 International Conference on Image Processing and Robotics (ICIPRoB 2026)*, Mount Lavinia, Sri Lanka, pp. 1–6.
-DOI: [10.1109/ICIPRoB69625.2026.11497819](https://doi.org/10.1109/ICIPRoB69625.2026.11497819)
-
----
 
 ## 🤝 Connect With Me
 
@@ -75,7 +58,4 @@ DOI: [10.1109/ICIPRoB69625.2026.11497819](https://doi.org/10.1109/ICIPRoB69625.2
 </p>
 
 ---
-
-### 💭 "Automate everything that should be automated."
-
-⭐ Thanks for visiting my profile!
+!
