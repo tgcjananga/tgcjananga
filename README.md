@@ -1,42 +1,42 @@
-# 👋 Hi, I'm Jananga Gamage
+# 👋 Hi, I'm Chamuditha Jananga
 
-### 🚀 SRE Intern | DevOps | Cloud | Kubernetes
+### 🚀 SRE Intern @ WSO2 | DevOps | Cloud | Kubernetes
 
-I'm passionate about **Site Reliability Engineering, DevOps, Cloud Infrastructure, and Kubernetes**. I enjoy building reliable systems, automating infrastructure, and learning how distributed systems work.
+Final-year Computer Engineering undergraduate at the **University of Peradeniya**, passionate about Software Engineering, Cloud Infrastructure, Distributed Systems, and Machine Learning. Currently a **Site Reliability Engineering Intern at WSO2**, building the **Open Cloud Datacenter Database-as-a-Service (DBaaS)** platform with Go, Kubernetes Operators, and KubeVirt.
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🔭 Currently working on **Cloud & Database Infrastructure**
-* ☸️ Learning and working with **Kubernetes & Cloud-Native technologies**
+* 🔭 Currently building **DBaaS on Kubernetes** as part of the [Open Cloud Datacenter](https://github.com/wso2/open-cloud-datacenter) project at WSO2
+* ☸️ Working with **Kubernetes Operators, CRDs, and cloud-native infrastructure**
+* 🖥️ Experimenting with **virtualization** — KubeVirt, Harvester, Longhorn, QEMU/KVM
 * 🐹 Building backend and infrastructure components with **Go**
-* ☁️ Exploring **AWS and cloud infrastructure**
-* 🐳 Working with **Docker & containerized applications**
-* 🐧 Linux enthusiast
-* 🌱 Continuously learning **SRE, DevOps & distributed systems**
-* 💡 Interested in **automation, observability, reliability & infrastructure**
+* ☁️ Automating infrastructure on **AWS** with **Terraform**
+* 🐳 Working with **Docker, Helm & containerized applications**
+* 🎓 Final-year Computer Engineering student, University of Peradeniya, Sri Lanka
+* 💡 Interested in **automation, observability, reliability & distributed systems**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & Infrastructure
+### ☁️ Cloud, Virtualization & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux" />
 </p>
 
 ### 💻 Programming & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=go,python,bash,git,github" />
+<img src="https://skillicons.dev/icons?i=go,java,py,js,react,nodejs" />
 </p>
 
-### ⚙️ DevOps & Cloud Native
+### 🗄️ Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,githubactions,terraform,ansible" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,githubactions" />
 </p>
 
 ---
@@ -44,8 +44,8 @@ I'm passionate about **Site Reliability Engineering, DevOps, Cloud Infrastructur
 ## 📊 GitHub Stats
 
 <p>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=tgcjananga&show_icons=true&theme=transparent&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgcjananga&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
@@ -53,7 +53,7 @@ I'm passionate about **Site Reliability Engineering, DevOps, Cloud Infrastructur
 ## 🔥 GitHub Streak
 
 <p>
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=tgcjananga&theme=transparent&hide_border=true" />
 </p>
 
 ---
@@ -61,15 +61,7 @@ I'm passionate about **Site Reliability Engineering, DevOps, Cloud Infrastructur
 ## 📈 Contribution Activity
 
 <p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p>
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tgcjananga&theme=github-compact&hide_border=true" />
 </p>
 
 ---
@@ -77,24 +69,35 @@ I'm passionate about **Site Reliability Engineering, DevOps, Cloud Infrastructur
 ## 👀 Profile Views
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=tgcjananga&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### ☸️ Kubernetes & Cloud Native
+### ☸️ [Open Cloud Datacenter – DBaaS](https://github.com/wso2/open-cloud-datacenter)
+Contributing to a Kubernetes-Operator-based Database-as-a-Service platform at WSO2 — image lifecycle management, cloud-init provisioning, VM image baking with HashiCorp Packer, and reconciliation workflows for self-service PostgreSQL on Harvester.
 
-Projects related to Kubernetes operators, controllers, infrastructure automation, and cloud-native systems.
+### 🩸 [Vescueye – Real-Time Blood Flow Monitoring](https://github.com/cepdnaclk/e20-3yp-Vescueye)
+Cloud-based medical IoT platform with automated CI/CD for real-time blood flow and temperature monitoring, built in collaboration with the Faculty of Dental Sciences, University of Peradeniya.
 
-### 🗄️ Database Infrastructure
+### 🧬 [Data-Driven Methods for Comparative Metagenomics](https://github.com/cepdnaclk/e20-fyp-metagenomics)
+Research project comparing dimensionality reduction methods for metagenomic data using topology preservation metrics and a GNN-based clustering pipeline.
 
-Working with database provisioning, lifecycle management, backups, storage, and automated database infrastructure.
+### 🕵️ [Deepfake Detection Browser Extension](https://github.com/cjcodesolutions/Project02-deepfake-detector-extension)
+Chrome extension and Flask API for real-time multimodal deepfake detection using CNN and LSTM models with Grad-CAM explainability.
 
-### ⚙️ DevOps & SRE
+### 🧳 [TourMate – Smart Travel Companion](https://github.com/tgcjananga/TourMate-GroupProject)
+Full-stack web application for intelligent trip planning with secure, salted-password authentication and session management.
 
-Infrastructure automation, CI/CD, observability, reliability engineering, and operational tooling.
+---
+
+## ✍️ Latest Blog Post
+
+**[Building the Foundation for Self-Service PostgreSQL Service on Harvester: PostgreSQL Lifecycle](https://medium.com/@tgcjananga/building-the-foundation-for-self-service-postgresql-service-on-harvester-postgresql-lifecycle-97cdf11a986a)**
+
+A deep dive into the design and implementation of PostgreSQL lifecycle management for the Open Cloud Datacenter DBaaS platform.
 
 ---
 
@@ -105,18 +108,16 @@ Kubernetes
     ├── Operators
     ├── Controllers
     ├── Storage
-    ├── Networking
     └── Scheduling
 
-SRE
-    ├── Observability
-    ├── Reliability
-    ├── Incident Management
-    └── Capacity Planning
+Virtualization
+    ├── KubeVirt
+    ├── Harvester
+    └── Longhorn
 
 Cloud
     ├── AWS
-    ├── Infrastructure as Code
+    ├── Infrastructure as Code (Terraform)
     └── Cloud-Native Architecture
 
 Software Engineering
@@ -128,11 +129,29 @@ Software Engineering
 
 ---
 
+## 📖 Publication
+
+**Evaluating Topology Preservation in Dimensionality Reduction Methods for Metagenomic Data: A Comparative Analysis**
+C. Jananga, T. Prasadinie, P. Malshan, V. Mallawaarachchi, R. Vidanaarachchi, and D. Herath
+*2026 International Conference on Image Processing and Robotics (ICIPRoB 2026)*, Mount Lavinia, Sri Lanka, pp. 1–6.
+DOI: [10.1109/ICIPRoB69625.2026.11497819](https://doi.org/10.1109/ICIPRoB69625.2026.11497819)
+
+---
+
 ## 🤝 Connect With Me
 
 <p>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/tgcjananga">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/chamuditha-jananga">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://tgcjananga.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://medium.com/@tgcjananga">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 </p>
 
