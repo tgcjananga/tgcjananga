@@ -9,7 +9,7 @@ Final-year Computer Engineering undergraduate at the **University of Peradeniya*
 ## 🛠️ Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=go,java,py,js,react,nodejs,postgres,mongodb,mysql,aws,docker,kubernetes,terraform,linux,git,github,githubactions" />
+<img src="https://skillicons.dev/icons?i=go,java,py,c,js,react,nodejs,express,spring,html,css,bootstrap,postgres,mongodb,mysql,aws,docker,kubernetes,terraform,ansible,linux,bash,git,github,githubactions,postman,tensorflow,sklearn,opencv&perline=10" />
 </p>
 
 ---
