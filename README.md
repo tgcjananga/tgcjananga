@@ -6,39 +6,11 @@ Final-year Computer Engineering undergraduate at the **University of Peradeniya*
 
 ---
 
-## 🧑‍💻 About Me
-
-* 🔭 Currently building **DBaaS on Kubernetes** as part of the [Open Cloud Datacenter](https://github.com/wso2/open-cloud-datacenter) project at WSO2
-* ☸️ Working with **Kubernetes Operators, CRDs, and cloud-native infrastructure**
-* 🖥️ Experimenting with **virtualization** — KubeVirt, Harvester, Longhorn, QEMU/KVM
-* 🐹 Building backend and infrastructure components with **Go**
-* ☁️ Automating infrastructure on **AWS** with **Terraform**
-* 🐳 Working with **Docker, Helm & containerized applications**
-* 🎓 Final-year Computer Engineering student, University of Peradeniya, Sri Lanka
-* 💡 Interested in **automation, observability, reliability & distributed systems**
-
----
-
-## 🛠️ Tech Stack
-
-### ☁️ Cloud, Virtualization & Infrastructure
+## 🛠️ Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux" />
+<img src="https://skillicons.dev/icons?i=go,java,py,js,react,nodejs,postgres,mongodb,mysql,aws,docker,kubernetes,terraform,linux,git,github,githubactions" />
 </p>
-
-### 💻 Programming & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=go,java,py,js,react,nodejs" />
-</p>
-
-### 🗄️ Databases & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,githubactions" />
-</p>
-
 
 ---
 
@@ -66,24 +38,6 @@ Final-year Computer Engineering undergraduate at the **University of Peradeniya*
 
 ---
 
-## 🚀 Featured Projects
-
-### ☸️ [Open Cloud Datacenter – DBaaS](https://github.com/wso2/open-cloud-datacenter)
-Contributing to a Kubernetes-Operator-based Database-as-a-Service platform at WSO2 — image lifecycle management, cloud-init provisioning, VM image baking with HashiCorp Packer, and reconciliation workflows for self-service PostgreSQL on Harvester.
-
-### 🩸 [Vescueye – Real-Time Blood Flow Monitoring](https://github.com/cepdnaclk/e20-3yp-Vescueye)
-Cloud-based medical IoT platform with automated CI/CD for real-time blood flow and temperature monitoring, built in collaboration with the Faculty of Dental Sciences, University of Peradeniya.
-
-### 🧬 [Data-Driven Methods for Comparative Metagenomics](https://github.com/cepdnaclk/e20-fyp-metagenomics)
-Research project comparing dimensionality reduction methods for metagenomic data using topology preservation metrics and a GNN-based clustering pipeline.
-
-### 🕵️ [Deepfake Detection Browser Extension](https://github.com/cjcodesolutions/Project02-deepfake-detector-extension)
-Chrome extension and Flask API for real-time multimodal deepfake detection using CNN and LSTM models with Grad-CAM explainability.
-
-### 🧳 [TourMate – Smart Travel Companion](https://github.com/tgcjananga/TourMate-GroupProject)
-Full-stack web application for intelligent trip planning with secure, salted-password authentication and session management.
-
----
 
 ## ✍️ Latest Blog Post
 
