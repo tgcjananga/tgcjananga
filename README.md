@@ -39,21 +39,13 @@ Final-year Computer Engineering undergraduate at the **University of Peradeniya*
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,githubactions" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=tgcjananga&show_icons=true&theme=transparent&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgcjananga&layout=compact&theme=transparent&hide_border=true" />
-</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
 <p>
-<img src="https://streak-stats.demolab.com?user=tgcjananga&theme=transparent&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=tgcjananga&theme=transparent&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
@@ -61,7 +53,7 @@ Final-year Computer Engineering undergraduate at the **University of Peradeniya*
 ## 📈 Contribution Activity
 
 <p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tgcjananga&theme=github-compact&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tgcjananga&theme=github-compact&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
@@ -101,33 +93,6 @@ A deep dive into the design and implementation of PostgreSQL lifecycle managemen
 
 ---
 
-## 📚 Currently Learning
-
-```text
-Kubernetes
-    ├── Operators
-    ├── Controllers
-    ├── Storage
-    └── Scheduling
-
-Virtualization
-    ├── KubeVirt
-    ├── Harvester
-    └── Longhorn
-
-Cloud
-    ├── AWS
-    ├── Infrastructure as Code (Terraform)
-    └── Cloud-Native Architecture
-
-Software Engineering
-    ├── Go
-    ├── REST APIs
-    ├── gRPC
-    └── Distributed Systems
-```
-
----
 
 ## 📖 Publication
 
