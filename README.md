@@ -57,5 +57,4 @@ A deep dive into the design and implementation of PostgreSQL lifecycle managemen
 </a>
 </p>
 
----
-!
+
